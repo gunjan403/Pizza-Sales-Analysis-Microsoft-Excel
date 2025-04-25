@@ -1,5 +1,3 @@
-# Pizza-Sales-Analysis-Microsoft-Excel
-
 # 🍕 Pizza Sales Analysis Dashboard
 
 A data analysis project focused on helping a pizza restaurant understand its declining sales by diving into customer order behavior and identifying key sales trends. Built using Microsoft Excel with an interactive dashboard.
@@ -34,16 +32,6 @@ The result is an interactive Excel dashboard that highlights critical insights a
 - Data Cleaning & Transformation
 - Logical Functions & Formatting
 
----
-
-## 🧩 How to Use
-
-1. **Clone this repository** or download the `.xlsx` file.
-2. Open the Excel file in Microsoft Excel (2016 or later recommended).
-3. Explore the dashboard by interacting with slicers and filters.
-4. Review the insights and trends for potential business strategies.
-
----
 
 ## 📸 Screenshots
 
