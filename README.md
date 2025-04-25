@@ -86,7 +86,7 @@ The result is an interactive Excel dashboard that highlights critical insights a
 
 -Classic Deluxe and Barbecue Chicken are top sellers.
 
-- Weekends drive the highest order volumes.
+-Weekends drive the hightest order volumes.
   
 -Small-sized pizzas are most frequently ordered, while large pizzas generate more revenue.
 
