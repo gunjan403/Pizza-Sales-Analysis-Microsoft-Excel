@@ -11,7 +11,7 @@ The pizza restaurant has recently seen a noticeable dip in sales. To reverse thi
 The result is an interactive Excel dashboard that highlights critical insights and guides business decisions.
 
 ## 📁 Dataset Used:
-<a href=https://github.com/gunjan403/Pizza-Sales-Analysis-Microsoft-Excel/blob/main/Dataset.xlsx>Pizza Sales Data</a>
+-<a href=https://github.com/gunjan403/Pizza-Sales-Analysis-Microsoft-Excel/blob/main/Dataset.xlsx>Pizza Sales Data</a>
 
 ## KPI’s:
 1.	Total Revenue: The overall revenue generated from all items sold.
@@ -20,9 +20,7 @@ The result is an interactive Excel dashboard that highlights critical insights a
 4.	Total Orders: Total number of orders placed.
 5.	Average Pizza per Order: Average number of pizzas sold per order.
    
-- Dashboard Interaction <a href=https://github.com/gunjan403/Pizza-Sales-Analysis-Microsoft-Excel/blob/main/Pizza%20Sales%20Dashboard%201.PNG>View Dashboard 1</a>
-
- <a href=https://github.com/gunjan403/Pizza-Sales-Analysis-Microsoft-Excel/blob/main/Pizza%20Sales%20Dashboard%202.PNG>View Dashboard 2</a>
+- Dashboard Interaction <a href=https://github.com/gunjan403/Pizza-Sales-Analysis-Microsoft-Excel/blob/main/Pizza%20Sales%20Dashboard%201.PNG>View Dashboard 1</a> <a href=https://github.com/gunjan403/Pizza-Sales-Analysis-Microsoft-Excel/blob/main/Pizza%20Sales%20Dashboard%202.PNG>View Dashboard 2</a>
 
  ## Recommended Analysis:
 1.	How many customers do we have each day? Are there any peak hours?
@@ -55,11 +53,11 @@ The result is an interactive Excel dashboard that highlights critical insights a
 
 ## 📊 Features
 
-- 🔍 **Top-Selling Items:** Most popular pizzas by quantity and revenue
-- 📅 **Time-Based Trends:** Sales by hour, day, and month
-- 🍕 **Category Breakdown:** Performance by pizza size and type
-- 📈 **Monthly Sales Trends:** Identifies dips and peaks in sales
-- 👥 **Customer Behavior:** Order frequency and patterns
+- 🔍 Top-Selling Items:** Most popular pizzas by quantity and revenue
+- 📅 Time-Based Trends:** Sales by hour, day, and month
+- 🍕 Category Breakdown:** Performance by pizza size and type
+- 📈 Monthly Sales Trends:** Identifies dips and peaks in sales
+- 👥 Customer Behavior:** Order frequency and patterns
 
 ## 🛠 Tools Used
 
@@ -83,7 +81,7 @@ The result is an interactive Excel dashboard that highlights critical insights a
 <img width="925" alt="Image" src="https://github.com/user-attachments/assets/465b3bf3-ff95-48ac-bab4-e5bd935dcf3d" />
 <img width="858" alt="Image" src="https://github.com/user-attachments/assets/00d9c348-34de-4029-bf18-3be133f82072" />
 
-## 💡 Insights & Recommendations:
+## 💡 Insights:
 -Peak orders occur between 12 PM – 2 PM and 6 PM – 8 PM.
 
 -Classic Deluxe and Barbecue Chicken are top sellers.
@@ -92,13 +90,6 @@ The result is an interactive Excel dashboard that highlights critical insights a
   
 -Small-sized pizzas are most frequently ordered, while large pizzas generate more revenue.
 
-- Offer discounts during low-traffic hours.
-  
-- Promote top-selling pizzas with combo deals.
-  
-- Consider optimizing the menu based on underperforming items.
-  
-- Analyze customer preferences to personalize marketing
 
 
 
