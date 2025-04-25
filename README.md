@@ -11,7 +11,7 @@ The pizza restaurant has recently seen a noticeable dip in sales. To reverse thi
 The result is an interactive Excel dashboard that highlights critical insights and guides business decisions.
 
 ## 📁 Dataset Used:
-<a href=https://github.com/gunjan403/Pizza-Sales-Analysis-Microsoft-Excel/blob/main/Dataset.xlsx>Pizza Data</a>
+<a href=https://github.com/gunjan403/Pizza-Sales-Analysis-Microsoft-Excel/blob/main/Dataset.xlsx>Pizza Sales Data</a>
 
 ## KPI’s:
 1.	Total Revenue: The overall revenue generated from all items sold.
@@ -20,9 +20,9 @@ The result is an interactive Excel dashboard that highlights critical insights a
 4.	Total Orders: Total number of orders placed.
 5.	Average Pizza per Order: Average number of pizzas sold per order.
    
-- Dashboard Interaction <a href=https://github.com/gunjan403/Pizza-Sales-Analysis-Microsoft-Excel/blob/main/Pizza%20Sales%20Dashboard%201.PNGView Dashboard 1</a>
+- Dashboard Interaction <a href=https://github.com/gunjan403/Pizza-Sales-Analysis-Microsoft-Excel/blob/main/Pizza%20Sales%20Dashboard%201.PNG>View Dashboard 1</a>
 
- <a href=https://github.com/gunjan403/Pizza-Sales-Analysis-Microsoft-Excel/blob/main/Pizza%20Sales%20Dashboard%202.PNGView Dashboard 2</a>
+ <a href=https://github.com/gunjan403/Pizza-Sales-Analysis-Microsoft-Excel/blob/main/Pizza%20Sales%20Dashboard%202.PNG>View Dashboard 2</a>
 
  ## Recommended Analysis:
 1.	How many customers do we have each day? Are there any peak hours?
@@ -70,9 +70,13 @@ The result is an interactive Excel dashboard that highlights critical insights a
 
  ## Process:
 -Identify data sources (Excel, SQL Server, CSV etc.)
+
 -Uploaded csv files into excel and then used VLOOKUP to merge multiple files into one file.
+
 -Clean and transform data using Microsoft excel (remove duplicates, standardized columns, fixed formatting, Handle missing values).
+
 -Used Pivot Tables for summarizing key metrics.
+
 -Choose the right visualizations (e.g., bar chart, pie charts, maps, matrix, cards)
 
 ## Dashboard:
@@ -81,13 +85,21 @@ The result is an interactive Excel dashboard that highlights critical insights a
 
 ## 💡 Insights & Recommendations:
 -Peak orders occur between 12 PM – 2 PM and 6 PM – 8 PM.
--"Classic Deluxe" and "Barbecue Chicken" are top sellers.
+
+-Classic Deluxe and Barbecue Chicken are top sellers.
+
 - Weekends drive the highest order volumes.
+  
 -Small-sized pizzas are most frequently ordered, while large pizzas generate more revenue.
+
 - Offer discounts during low-traffic hours.
+  
 - Promote top-selling pizzas with combo deals.
+  
 - Consider optimizing the menu based on underperforming items.
-- Analyze customer preferences to personalize marketing.
+  
+- Analyze customer preferences to personalize marketing
+
 
 
 
