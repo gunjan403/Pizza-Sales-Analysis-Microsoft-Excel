@@ -82,7 +82,7 @@ The result is an interactive Excel dashboard that highlights critical insights a
 <img width="858" alt="Image" src="https://github.com/user-attachments/assets/00d9c348-34de-4029-bf18-3be133f82072" />
 
 ## 💡 Insights:
--Peak orders occur between 12 PM – 2 PM and 6 PM – 8 PM.
+-Peak orders occur between 12 PM – 1 PM and 4 PM – 7 PM.
 
 -Classic Deluxe and Barbecue Chicken are top sellers.
 
