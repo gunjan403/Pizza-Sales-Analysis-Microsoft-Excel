@@ -2,8 +2,6 @@
 
 A data analysis project focused on helping a pizza restaurant understand its declining sales by diving into customer order behavior and identifying key sales trends. Built using Microsoft Excel with an interactive dashboard.
 
----
-
 ## 📌 Project Overview
 
 The pizza restaurant has recently seen a noticeable dip in sales. To reverse this trend, management initiated a data-driven approach to analyze past order data. This project aims to uncover:
@@ -12,8 +10,6 @@ The pizza restaurant has recently seen a noticeable dip in sales. To reverse thi
 - Performance trends over time
 
 The result is an interactive Excel dashboard that highlights critical insights and guides business decisions.
-
----
 
 ## 📊 Features
 
@@ -58,10 +54,9 @@ The result is an interactive Excel dashboard that highlights critical insights a
 ---
 
 ## 📁 Dataset
+- <a href=https://github.com/gunjan403/PowerBI-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx>Pizza Sales Dataset</a>
 
-*Note: This project uses a cleaned version of a sample pizza order dataset. You may replace it with actual business data for real-time use.*
 
----
 
 
 
